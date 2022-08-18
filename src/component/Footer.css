@@ -1,0 +1,9 @@
+.footer-section
+{
+background-color: rgb(31, 5, 5);
+color: yellow;
+height: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
